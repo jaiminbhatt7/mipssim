@@ -1,0 +1,2 @@
+mipssim :
+	g++ HelloWorld.cpp -o MIPSsim
